@@ -1,0 +1,60 @@
+2020-05-16 17:48:34,844 INFO 3704 [Timer] E:\egg学习\eggAPI\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 38485159ms at 2020-05-17 04:30:00.003
+2020-05-16 17:48:34,844 INFO 3704 [Timer] E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 22285156ms at 2020-05-17 00:00:00.000
+2020-05-16 17:48:34,844 INFO 3704 [Timer] E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 22286156ms at 2020-05-17 00:00:01.000
+2020-05-16 17:48:34,744 INFO 3756 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-05-16 17:48:34,744 INFO 3756 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-05-16 17:48:34,744 INFO 3756 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-05-17 09:26:08,655 INFO 5900 [Timer] E:\egg学习\eggAPI\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 68631348ms at 2020-05-18 04:30:00.003
+2020-05-17 09:26:08,655 INFO 5900 [Timer] E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 52431345ms at 2020-05-18 00:00:00.000
+2020-05-17 09:26:08,656 INFO 5900 [Timer] E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 52432345ms at 2020-05-18 00:00:01.001
+2020-05-17 09:26:08,502 INFO 3404 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-05-17 09:26:08,502 INFO 3404 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-05-17 09:26:08,502 INFO 3404 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-05-17 09:34:13,811 INFO 7200 [Timer] E:\egg学习\eggAPI\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 68146191ms at 2020-05-18 04:30:00.002
+2020-05-17 09:34:13,812 INFO 7200 [Timer] E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 51946189ms at 2020-05-18 00:00:00.001
+2020-05-17 09:34:13,812 INFO 7200 [Timer] E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 51947188ms at 2020-05-18 00:00:01.000
+2020-05-17 09:34:13,704 INFO 5892 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-05-17 09:34:13,704 INFO 5892 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-05-17 09:34:13,704 INFO 5892 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-05-17 09:38:00,451 INFO 3100 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-05-17 09:38:00,451 INFO 3100 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-05-17 09:38:00,451 INFO 3100 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-05-17 09:38:47,750 INFO 7680 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-05-17 09:38:47,750 INFO 7680 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-05-17 09:38:47,750 INFO 7680 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-05-17 09:41:32,202 INFO 8732 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-05-17 09:41:32,202 INFO 8732 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-05-17 09:41:32,202 INFO 8732 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-05-17 09:42:35,780 INFO 8984 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-05-17 09:42:35,780 INFO 8984 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-05-17 09:42:35,780 INFO 8984 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-05-17 10:03:44,866 INFO 8912 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-05-17 10:03:44,866 INFO 8912 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-05-17 10:03:44,866 INFO 8912 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-05-17 10:04:46,397 INFO 10804 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-05-17 10:04:46,397 INFO 10804 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-05-17 10:04:46,397 INFO 10804 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-05-17 10:07:35,430 INFO 11196 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-05-17 10:07:35,430 INFO 11196 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-05-17 10:07:35,430 INFO 11196 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-05-17 10:12:05,874 INFO 8956 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-05-17 10:12:05,874 INFO 8956 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-05-17 10:12:05,874 INFO 8956 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-05-17 10:12:14,262 INFO 10104 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-05-17 10:12:14,262 INFO 10104 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-05-17 10:12:14,262 INFO 10104 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-05-17 10:12:37,947 INFO 11100 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-05-17 10:12:37,947 INFO 11100 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-05-17 10:12:37,947 INFO 11100 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-05-17 10:12:50,686 INFO 4796 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-05-17 10:12:50,686 INFO 4796 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-05-17 10:12:50,686 INFO 4796 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-05-17 10:13:22,528 INFO 10752 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-05-17 10:13:22,528 INFO 10752 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-05-17 10:13:22,528 INFO 10752 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-05-18 13:20:56,853 INFO 13372 [Timer] E:\egg学习\eggAPI\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 54543150ms at 2020-05-19 04:30:00.003
+2020-05-18 13:20:56,853 INFO 13372 [Timer] E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 38343147ms at 2020-05-19 00:00:00.000
+2020-05-18 13:20:56,853 INFO 13372 [Timer] E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 38344147ms at 2020-05-19 00:00:01.000
+2020-05-18 13:20:56,400 INFO 13456 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-05-18 13:20:56,400 INFO 13456 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-05-18 13:20:56,400 INFO 13456 [egg-schedule]: register schedule E:\egg学习\eggAPI\node_modules\egg-logrotator\app\schedule\rotate_by_file.js

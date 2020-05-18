@@ -1,0 +1,317 @@
+{
+  "keys": "E:\\egg学习\\eggAPI\\config\\config.default.js",
+  "middleware": "E:\\egg学习\\eggAPI\\config\\config.default.js",
+  "security": {
+    "csrf": {
+      "enable": "E:\\egg学习\\eggAPI\\config\\config.default.js",
+      "type": "E:\\egg学习\\eggAPI\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "E:\\egg学习\\eggAPI\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "E:\\egg学习\\eggAPI\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "E:\\egg学习\\eggAPI\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "E:\\egg学习\\eggAPI\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "E:\\egg学习\\eggAPI\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "E:\\egg学习\\eggAPI\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "E:\\egg学习\\eggAPI\\node_modules\\egg-security\\config\\config.default.js",
+      "refererWhiteList": "E:\\egg学习\\eggAPI\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "domainWhiteList": "E:\\egg学习\\eggAPI\\config\\config.default.js",
+    "protocolWhiteList": "E:\\egg学习\\eggAPI\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "E:\\egg学习\\eggAPI\\node_modules\\egg-security\\config\\config.default.js",
+    "xframe": {
+      "enable": "E:\\egg学习\\eggAPI\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\egg学习\\eggAPI\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "E:\\egg学习\\eggAPI\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "E:\\egg学习\\eggAPI\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "E:\\egg学习\\eggAPI\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "E:\\egg学习\\eggAPI\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "E:\\egg学习\\eggAPI\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "E:\\egg学习\\eggAPI\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "E:\\egg学习\\eggAPI\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "E:\\egg学习\\eggAPI\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\egg学习\\eggAPI\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "E:\\egg学习\\eggAPI\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\egg学习\\eggAPI\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "E:\\egg学习\\eggAPI\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "E:\\egg学习\\eggAPI\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "E:\\egg学习\\eggAPI\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "E:\\egg学习\\eggAPI\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "cors": {
+    "origin": "E:\\egg学习\\eggAPI\\config\\config.default.js",
+    "allowMethods": "E:\\egg学习\\eggAPI\\config\\config.default.js"
+  },
+  "sequelize": {
+    "dialect": "E:\\egg学习\\eggAPI\\config\\config.default.js",
+    "host": "E:\\egg学习\\eggAPI\\config\\config.default.js",
+    "username": "E:\\egg学习\\eggAPI\\config\\config.default.js",
+    "password": "E:\\egg学习\\eggAPI\\config\\config.default.js",
+    "port": "E:\\egg学习\\eggAPI\\config\\config.default.js",
+    "database": "E:\\egg学习\\eggAPI\\config\\config.default.js",
+    "timezone": "E:\\egg学习\\eggAPI\\config\\config.default.js",
+    "define": {
+      "freezeTableName": "E:\\egg学习\\eggAPI\\config\\config.default.js",
+      "timestamps": "E:\\egg学习\\eggAPI\\config\\config.default.js",
+      "createdAt": "E:\\egg学习\\eggAPI\\config\\config.default.js",
+      "updatedAt": "E:\\egg学习\\eggAPI\\config\\config.default.js",
+      "underscored": "E:\\egg学习\\eggAPI\\config\\config.default.js"
+    }
+  },
+  "session": {
+    "maxAge": "E:\\egg学习\\eggAPI\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "E:\\egg学习\\eggAPI\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "E:\\egg学习\\eggAPI\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "E:\\egg学习\\eggAPI\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "E:\\egg学习\\eggAPI\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "E:\\egg学习\\eggAPI\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "E:\\egg学习\\eggAPI\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "E:\\egg学习\\eggAPI\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "E:\\egg学习\\eggAPI\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "E:\\egg学习\\eggAPI\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "E:\\egg学习\\eggAPI\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "E:\\egg学习\\eggAPI\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "E:\\egg学习\\eggAPI\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "E:\\egg学习\\eggAPI\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "E:\\egg学习\\eggAPI\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "E:\\egg学习\\eggAPI\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "E:\\egg学习\\eggAPI\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "E:\\egg学习\\eggAPI\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "E:\\egg学习\\eggAPI\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "E:\\egg学习\\eggAPI\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "E:\\egg学习\\eggAPI\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "E:\\egg学习\\eggAPI\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "E:\\egg学习\\eggAPI\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "E:\\egg学习\\eggAPI\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "E:\\egg学习\\eggAPI\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "E:\\egg学习\\eggAPI\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "E:\\egg学习\\eggAPI\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "E:\\egg学习\\eggAPI\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "E:\\egg学习\\eggAPI\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "E:\\egg学习\\eggAPI\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "E:\\egg学习\\eggAPI\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "E:\\egg学习\\eggAPI\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "E:\\egg学习\\eggAPI\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "E:\\egg学习\\eggAPI\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "E:\\egg学习\\eggAPI\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "E:\\egg学习\\eggAPI\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "E:\\egg学习\\eggAPI\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "E:\\egg学习\\eggAPI\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "E:\\egg学习\\eggAPI\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "E:\\egg学习\\eggAPI\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "E:\\egg学习\\eggAPI\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "E:\\egg学习\\eggAPI\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "E:\\egg学习\\eggAPI\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "E:\\egg学习\\eggAPI\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "E:\\egg学习\\eggAPI\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "E:\\egg学习\\eggAPI\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "E:\\egg学习\\eggAPI\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "E:\\egg学习\\eggAPI\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "E:\\egg学习\\eggAPI\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "E:\\egg学习\\eggAPI\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "E:\\egg学习\\eggAPI\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "E:\\egg学习\\eggAPI\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "E:\\egg学习\\eggAPI\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "E:\\egg学习\\eggAPI\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "E:\\egg学习\\eggAPI\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "E:\\egg学习\\eggAPI\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "E:\\egg学习\\eggAPI\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "E:\\egg学习\\eggAPI\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "env": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+  "name": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+  "cookies": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+    "version": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+    "description": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+    "private": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+    "egg": {
+      "declarations": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js"
+    },
+    "dependencies": {
+      "egg": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+      "egg-cors": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+      "egg-scripts": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+      "egg-sequelize": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+      "mysql2": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "autod": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+      "autod-egg": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+      "egg-bin": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+      "egg-ci": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+      "egg-mock": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+      "eslint": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+      "eslint-config-egg": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+      "sequelize-cli": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js"
+    },
+    "scripts": {
+      "start": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+      "stop": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+      "dev": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+      "debug": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+      "test": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+      "test-local": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+      "cov": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+      "lint": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+      "ci": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+      "autod": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js"
+    },
+    "ci": {
+      "version": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+      "url": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+    "license": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js"
+  },
+  "baseDir": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+    "strict": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+      "depth": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js"
+    },
+    "onerror": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+    "env": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+    "level": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+    "logging": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+      "port": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "E:\\egg学习\\eggAPI\\node_modules\\egg\\config\\config.default.js"
+}
